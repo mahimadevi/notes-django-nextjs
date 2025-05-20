@@ -2,6 +2,13 @@
 
 In my Django + Next.js application, users can sign up and perform CRUD operations (Create, Read, Update, Delete) on notes.
 
+# How to Use the Application:
+1. Visit the application URL and replace /login with /register.
+2. Fill out the registration form to create a new account.
+3. After successful registration, you will be redirected to the login page. Enter your credentials to log in.
+4. Once authenticated, you will be taken to the home page.
+5. On the home page, you can create, view, update, and delete notes. All notes are specific to the currently logged-in user.
+
 # Backend Flow (Django)
 ![image](https://github.com/user-attachments/assets/aead184a-68b2-401c-b740-c91f9ef8ca3b)
 
