@@ -10,7 +10,8 @@ In my Django + Next.js application, users can sign up and perform CRUD operation
 5. On the home page, you can create, view, update, and delete notes. All notes are specific to the currently logged-in user.
 
 # Backend Flow (Django)
-![image](https://github.com/user-attachments/assets/aead184a-68b2-401c-b740-c91f9ef8ca3b)
+![image](https://github.com/user-attachments/assets/6e2053eb-f048-47fc-8103-2c2bca8d3e6d)
+
 
 1. User visits the site URL.
 2. In the Django backend, the request first goes to the root urls.py file.
